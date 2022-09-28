@@ -1,0 +1,85 @@
+
+commit c045404a23262784c06aa3ae4a2f3e980eb5d111 (HEAD -> main, origin/main, origin/HEAD)
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 12:12:51 2022 -0500
+
+    Agregannfo parrafos
+
+commit 555d79d53fa3546b4fcba110f71fd95fa225c663
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 11:55:11 2022 -0500
+
+    Agregando estaciones del a<C3><B1>o con fecha de inicio 
+
+commit aa45d65fbfec891866d681f4447e0a76e95cf880
+Merge: 96ccfb8 d50864e
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 11:48:11 2022 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit d50864e35a176c292c488d45db66ce5b04e2e525 (html)      
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 11:42:59 2022 -0500
+
+    agregando index.js al index.html
+
+commit 96ccfb81809b546baef9ac125d371a8d29ec3d44
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 11:39:59 2022 -0500
+
+    agregando style.css al index.html
+
+commit d8c4f92eee89eb3a47301be34b82e222dc8f668c
+Merge: a477d2f 9b286d9
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 11:27:12 2022 -0500
+
+    Merge branch 'js'
+
+commit 9b286d902cfdab9571985f78d940c75cc922beed
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Mon Sep 26 23:37:42 2022 -0500
+
+    a<C3><B1>adi js
+
+commit a477d2f0cb03b95a9cb039313c3155c08770d8f1
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Mon Sep 26 23:33:39 2022 -0500
+
+    creando css
+
+commit 890c74cfe910e40517c89c60c6138922e969a30e
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Mon Sep 26 23:24:43 2022 -0500
+
+    Creando index.html
+
+commit 101ff92a0b9b3b15504f1d4165de4547cd389870
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Mon Sep 26 23:00:10 2022 -0500
+
+    ignorar archivos .exe
+
+commit 49412396f07d7cffd920095adb9a6a7ce785ce29
+Author: NancyMayek <86866285+NancyMayek@users.noreply.github.com>
+Date:   Mon Sep 26 22:06:40 2022 -0500
+
+    Creando licencia del repositorio
+
+commit baed3e59328f7dd22d814d73470513c4b2849196
+Author: Nancy TA <mayekqua@gmail.com>
+commit c045404a23262784c06aa3ae4a2f3e980eb5d111 (HEAD -> main, origin/main, origin/HEAD)
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 12:12:51 2022 -0500
+
+    Agregannfo parrafos
+
+commit 555d79d53fa3546b4fcba110f71fd95fa225c663
+Author: Nancy TA <mayekqua@gmail.com>
+Date:   Tue Sep 27 11:55:11 2022 -0500
+
+    Agregando estaciones del a<C3><B1>o con fecha de inicio 
+
+commit aa45d65fbfec891866d681f4447e0a76e95cf880
+Merge: 96ccfb8 d50864e
